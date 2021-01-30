@@ -60,7 +60,7 @@ frame.grid(padx=1,row=0)
 frame.pack(expand=YES)
 frame_2.pack(expand=YES)
 
-#affiche la fenetre clebard de merde va
+#affiche la fenetre c
 window.mainloop()
 
 
