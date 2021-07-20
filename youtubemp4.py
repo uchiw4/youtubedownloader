@@ -35,6 +35,7 @@ def download_video():
 window = Tk()
 window.title("JL Youtube.mp4")
 window.geometry("500x500")
+window.iconbitmap("algeria.ico")
 window.config(background= "black")
 window.minsize(500, 100)
 window.maxsize(500, 500)
