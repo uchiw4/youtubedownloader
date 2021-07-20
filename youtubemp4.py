@@ -33,10 +33,8 @@ def download_video():
 
 #afficher la fenêtre
 window = Tk()
-photo1 = PhotoImage(file = f"\Algerie.png")
 window.title("JL Youtube.mp4")
 window.geometry("500x500")
-window.iconphoto(False, photo1)
 window.config(background= "black")
 window.minsize(500, 100)
 window.maxsize(500, 500)
